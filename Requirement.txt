@@ -3,3 +3,6 @@ emoji
 color
 dark mode
 background
+
+payment
+about me

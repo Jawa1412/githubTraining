@@ -1,3 +1,5 @@
 This is chat application
 emoji
 color
+dark mode
+background
